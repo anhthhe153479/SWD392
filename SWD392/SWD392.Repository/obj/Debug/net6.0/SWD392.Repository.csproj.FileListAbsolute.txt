@@ -1,0 +1,12 @@
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\bin\Debug\net6.0\SWD392.Repository.deps.json
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\bin\Debug\net6.0\SWD392.Repository.dll
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\bin\Debug\net6.0\SWD392.Repository.pdb
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.AssemblyInfo.cs
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.dll
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\refint\SWD392.Repository.dll
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\SWD392.Repository.pdb
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Repository\obj\Debug\net6.0\ref\SWD392.Repository.dll

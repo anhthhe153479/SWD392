@@ -1,0 +1,14 @@
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\bin\Debug\net6.0\SWD392.Models.deps.json
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\bin\Debug\net6.0\SWD392.Models.runtimeconfig.json
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\bin\Debug\net6.0\SWD392.Models.dll
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\bin\Debug\net6.0\SWD392.Models.pdb
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.AssemblyInfo.cs
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.dll
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\refint\SWD392.Models.dll
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.pdb
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\SWD392.Models.genruntimeconfig.cache
+C:\Users\Admin\Máy tính\SWD392_Project\SWD392\SWD392.Models\obj\Debug\net6.0\ref\SWD392.Models.dll
