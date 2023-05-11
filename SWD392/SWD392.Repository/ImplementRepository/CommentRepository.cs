@@ -9,9 +9,6 @@ using SWD392.Repository.IRepository;
 
 namespace SWD392.Repository.ImplementRepository
 {
-    internal class CommentRepository
-    {
-    }
     public class CommentRepository : GennericRepository<Comment>, ICommentRepository
     {
         public CommentRepository(SWD_Summer2023Context context) : base(context) { }

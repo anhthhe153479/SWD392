@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SWD392.Models\SWD392.Models.csproj" />
+  </ItemGroup>
+
 </Project>
